@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+numpy
+pypdf
+python-docx
+tqdm
